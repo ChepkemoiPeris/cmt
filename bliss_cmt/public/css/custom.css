@@ -1,0 +1,36 @@
+
+.btnsize {
+
+  margin-top: 9px;
+
+}
+.service_border{
+	border: 1px solid #d0cedf;
+	width: 170px;
+	height: 27px;
+}
+.level_border{
+ 	border: 1px solid #d0cedf;
+	width: 80px;
+	height: 27px;	
+}
+.set_esclation{
+	width: 112px;
+}
+.astric{
+	color: red;
+}
+.danger {
+	color: red;
+}
+.minutes {
+	border: none;
+    background-color: lightgrey;
+}
+
+
+
+//login page 
+.btn_color {
+	background-color:#18479D;color:#ffffff;
+}
